@@ -1,0 +1,2 @@
+r3live/livox_ros_driver2:r3live/r3live
+-DCATKIN_DEVEL_PREFIX=/home/cjy/r3live/devel -DCMAKE_INSTALL_PREFIX=/home/cjy/r3live/install -G Unix Makefiles
